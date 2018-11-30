@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="886f1436-efb9-4b1c-a68e-6337f994b4c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sick-fits/backend/datamodel.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/sick-fits/backend/datamodel.prisma" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sick-fits/backend/src/generated/prisma.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/sick-fits/backend/src/generated/prisma.graphql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sick-fits/backend/src/resolvers/Mutation.js" beforeDir="false" afterPath="$PROJECT_DIR$/sick-fits/backend/src/resolvers/Mutation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sick-fits/backend/src/resolvers/Query.js" beforeDir="false" afterPath="$PROJECT_DIR$/sick-fits/backend/src/resolvers/Query.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sick-fits/backend/src/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/sick-fits/backend/src/schema.graphql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sick-fits/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sick-fits/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sick-fits/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sick-fits/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sick-fits/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sick-fits/frontend/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,79 +15,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-958208818">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.opened" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="env" value="20" />
-          <entry key="graphql" value="387" />
-          <entry key="js" value="4004" />
-          <entry key="prisma" value="155" />
-          <entry key="yml" value="107" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="graphql" value="11" />
-          <entry key="js" value="29" />
-          <entry key="json" value="8" />
-          <entry key="prisma" value="2" />
-          <entry key="sample" value="1" />
-          <entry key="yml" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key=".env file" value="20" />
-          <entry key="GraphQL" value="387" />
-          <entry key="JavaScript" value="3945" />
-          <entry key="Less" value="59" />
-          <entry key="PLAIN_TEXT" value="155" />
-          <entry key="YAML" value="107" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="GraphQL" value="10" />
-          <entry key="JSON" value="8" />
-          <entry key="JavaScript" value="29" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="YAML" value="5" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-61243976">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="json" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JSON" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -105,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sick-fits/backend/datamodel.prisma">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
+            <state relative-caret-position="195">
               <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
@@ -114,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sick-fits/backend/src/generated/prisma.graphql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10108">
-              <caret line="433" column="1" lean-forward="true" selection-start-line="433" selection-end-line="433" selection-end-column="1" />
+            <state relative-caret-position="6495">
+              <caret line="433" column="1" selection-start-line="433" selection-end-line="433" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -123,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sick-fits/backend/src/resolvers/Mutation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="105">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -132,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sick-fits/backend/src/resolvers/Query.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
+            <state relative-caret-position="45">
               <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
@@ -180,29 +105,11 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/sick-fits/backend/node_modules" />
-    <handled-path value="$PROJECT_DIR$/sick-fits/frontend/node_modules" />
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/finished-application/backend/package.json" />
-      <path value="$PROJECT_DIR$/finished-application/frontend/package.json" />
-      <path value="$PROJECT_DIR$/sick-fits/backend/package.json" />
-      <path value="$PROJECT_DIR$/sick-fits/frontend/package.json" />
-    </packageJsonPaths>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2406" />
-    <option name="y" value="25" />
-    <option name="width" value="1434" />
-    <option name="height" value="990" />
+    <option name="x" value="1558" />
+    <option name="y" value="420" />
+    <option name="width" value="1430" />
+    <option name="height" value="675" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -236,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,7 +181,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,17 +229,20 @@
       <workItem from="1541786756258" duration="1404000" />
       <workItem from="1541791435702" duration="7421000" />
       <workItem from="1542036861919" duration="2369000" />
+      <workItem from="1543604855946" duration="166000" />
+      <workItem from="1543605048206" duration="193000" />
+      <workItem from="1543605261240" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24200000" />
+    <option name="totallyTimeSpent" value="25158000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="25" width="1920" height="990" extended-state="6" />
+    <frame x="1558" y="420" width="1430" height="675" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15340011" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19900498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -346,7 +256,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32943925" />
-      <window_info anchor="bottom" id="GraphQL" order="11" weight="0.33100232" />
+      <window_info anchor="bottom" id="GraphQL" order="11" visible="true" weight="0.46886447" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -355,16 +265,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
-      <path value="$PROJECT_DIR$/../.." />
+      <path value="$USER_HOME$" />
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../sick-fits/backend/package.json" />
+    <entry file="file://$USER_HOME$/sick-fits/backend/package.json" />
     <entry file="file://$PROJECT_DIR$/sick-fits/frontend/pages/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -455,13 +362,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sick-fits/backend/variables.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sick-fits/backend/variables.env" />
     <entry file="file://$PROJECT_DIR$/sick-fits/backend/prisma.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -529,38 +430,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sick-fits/backend/src/resolvers/Mutation.js">
+    <entry file="file://$PROJECT_DIR$/sick-fits/backend/src/schema.graphql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sick-fits/backend/src/resolvers/Query.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state>
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sick-fits/backend/datamodel.prisma">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
+        <state relative-caret-position="195">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sick-fits/backend/src/generated/prisma.graphql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10108">
-          <caret line="433" column="1" lean-forward="true" selection-start-line="433" selection-end-line="433" selection-end-column="1" />
+        <state relative-caret-position="6495">
+          <caret line="433" column="1" selection-start-line="433" selection-end-line="433" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sick-fits/backend/src/schema.graphql">
+    <entry file="file://$PROJECT_DIR$/sick-fits/backend/src/resolvers/Mutation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sick-fits/backend/src/resolvers/Query.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
